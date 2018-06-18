@@ -1,0 +1,24 @@
+,Age Range,Agency,Date,Gender,Overdose Successfully Reversed (Y/N),Race,Repeat User,Residing Zip Code,Responding Location Name,Responding Zip Code,Time of Reversal,Total mg used
+0,70 and up,Peoria Fire,4/5/2018,M,Y,W,,61614.0,Heartland NH,61614.0,9:12,2.0
+1,40-49,Peoria Fire,4/6/2018,F,N,A,,61603.0,Super 8,61614.0,11:21,4.0
+2,40-49,Peoria Fire,4/6/2018,F,Y,B,,61603.0,House,61603.0,15:34,1.0
+3,30-39,Peoria Fire,4/8/2018,M,Y,W,,62946.0,Street,61614.0,9:58,4.0
+4,40-49,Peoria Fire,4/8/2018,M,Y,B,Y,61603.0,Street,61604.0,13:15,2.0
+5,20-29,Peoria Fire,4/9/2018,M,Y,U,Y,61611.0,Street,61603.0,10:34,2.0
+6,50-59,Peoria Fire,4/12/2018,M,Y,B,Y,61603.0,In and Out Grocery,61603.0,14:17,4.0
+7,50-59,Peoria Fire,4/12/2018,M,Y,B,Y,61604.0,House,61603.0,15:01,2.0
+8,40-49,Peoria Fire,4/12/2018,M,Y,W,Y,61614.0,Schnucks,61614.0,19:13,2.0
+9,40-49,Peoria Fire,4/13/2018,M,Y,B,Y,61604.0,House,61605.0,23:04,2.0
+10,30-39,Peoria Fire,4/19/2018,F,Y,B,,61604.0,Apartment,61604.0,7:04,2.0
+11,30-39,Peoria Fire,4/21/2018,M,Y,W,,61364.0,House,61605.0,18:12,2.0
+12,40-49,Peoria Fire,4/25/2018,F,Y,W,Y,61606.0,House,61606.0,17:45,2.0
+13,30-39,Peoria Fire,4/27/2018,F,Y,W,Y,61604.0,Landmark,61604.0,20:45,2.0
+14,40-49,Peoria Fire,4/28/2018,M,N,W,Y,61603.0,House,61603.0,2:53,2.0
+15,70 and up,Peoria Fire,4/29/2018,F,N,W,N,61605.0,House,61605.0,5:26,2.0
+16,50-59,Peoria Fire,4/29/2018,M,Y,B,Y,61603.0,House,61603.0,7:34,2.0
+17,40-49,PPD,4/6/2018,FEMALE,Y,BLACK,N,61603.0,,61603.0,15:37,4 MG (1 dose)
+18,50-59,PPD/PFD,4/7/2018,MALE,Y,WHITE,Y,61606.0,,61606.0,18:06,4 MG (2 doses)
+19,30-39,PPD,4/10/2018,MALE,Y,WHITE,Y,61605.0,,61605.0,22:25,2 MG (1 dose) & 4MG (1dose)
+20,40-49,PPD,4/11/2018,MALE,Y,WHITE,N,61605.0,,61604.0,19:23,2 MG (1 dose)
+21,30-39,PPD,4/21/2018,MALE,Y,WHITE,Y,61604.0,,61605.0,0:58,4 MG (2 doses)
+22,30-39,PPD,4/22/2018,MALE,Y,WHITE,N,61238.0,,61605.0,18:12,1 dose (MG not listed)
